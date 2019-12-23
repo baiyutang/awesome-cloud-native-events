@@ -1,4 +1,4 @@
-# Awesome CloudNative Events
+# Awesome Cloud Native Events
 🎉 Focus on Cloud Native Events, and the  public source of  these Events
 
 搜罗云原生相关技术活动及其公开资料
