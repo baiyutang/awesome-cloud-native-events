@@ -16,4 +16,6 @@
 ## Organizations
 * [Linux Foundation](https://www.linuxfoundation.org/)
 * [The Cloud Native Computing Foundation(CNCF) ](https://www.cncf.io/)
+* [Kubernetes/Cloud-Native Online Meetup](https://www.meetup.com/Kubernetes-Cloud-Native-Online-Meetup/)
+* [Kubernetes groups on Meetup](https://www.meetup.com/topics/kubernetes/)
 * [LF Asia, LLC (`a US limited liability corporation producing events for open source technologies and open source projects around the world`)](https://www.lfasiallc.com/)
