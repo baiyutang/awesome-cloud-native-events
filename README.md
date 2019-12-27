@@ -16,3 +16,4 @@
 ## Organizations
 * [Linux Foundation](https://www.linuxfoundation.org/)
 * [The Cloud Native Computing Foundation(CNCF) ](https://www.cncf.io/)
+* [LF Asia, LLC (`a US limited liability corporation producing events for open source technologies and open source projects around the world`)](https://www.lfasiallc.com/)
