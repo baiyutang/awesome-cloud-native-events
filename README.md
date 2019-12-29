@@ -13,8 +13,9 @@
 * [ContainerDays](https://containerdays.io/)
 
 ## Community
-* [Kubernetes groups on Meetup](https://www.meetup.com/topics/kubernetes/)
+* [Kubernetes Topic on Meetup](https://www.meetup.com/topics/kubernetes/)
 * [Kubernetes/Cloud-Native Online Meetup](https://www.meetup.com/Kubernetes-Cloud-Native-Online-Meetup/)
+* [Events and Meetups List On Kubernetes Official Community Forums ](https://discuss.kubernetes.io/c/events-and-meetups/9)
 
 
 ## Organizations
